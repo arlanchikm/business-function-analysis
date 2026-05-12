@@ -8,8 +8,7 @@
 - `hotel-booking-analysis.md` — основной документ с описанием бизнес-функции.
 - `Hotel booking.bpmn` - BPMN-диаграмма бизнес-функции. 
 - `Hotel booking_with_overlays.png` - PNG-экспорт BPMN-диаграммы.
-- `hotel-booking-erd.md` — ERD логического уровня для функции бронирования отеля.
-- `hotel-booking-erd.png` — PNG-экспорт ERD логического уровня.
+- `hotel-booking-erd.png` — ERD логического уровня для функции бронирования отеля.
 
 ## Что включает работа
 - цель функции
